@@ -78,3 +78,4 @@ int main() {
 
 
 # RESULT
+Thus, the C program for the Rail Fence cipher was executed successfully.
